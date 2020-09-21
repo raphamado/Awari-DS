@@ -1,0 +1,36 @@
+Defina com suas palavras o que é Data Science.
+R: É a coleta, análise e disponibilização dos dados para subsidiar a tomada de decições, de forma preditiva, para gerar insights sobre o assunto estudado
+   
+Descreva resumidamente as principais etapas de um projeto de Data Science.
+R: Entendeimento do problema, coleta de dados, exploração dos dados, análise dos dados e comunicação dos resultados
+
+Quais as habilidades essenciais de um cientista de dados? Você já possui alguma dessas habilidades?
+R: Comunicação, Gestão de Dados Estruturados, Matemática, Gestão de Projetos, Data Mining e Visualização, Design de Experimentos, Gestão de Dados, Design e Desenvolvimento de Produtos, Modelagem estatística e Desenvolvimento de negócios.
+   Sim, Matemática.
+   
+Quais são as principais as ferramentas e linguagens de Data Science?
+R: Jupyter, Spyder, R-Studio, MATLAB, Octave, Git e Github, Conda e Anaconda
+
+Quais as diferenças entre Big Data, Business Intelligence e Data Science?
+R:
+Big Data - O Big Data nada mais é que um banco de dados. Contudo, ele não pode ser tratado como um simples local de armazenamento. Dentro do BD podem ser armazenados volumes massivos de dados não estruturados para posterior análise. Isso, ao mesmo tempo em que mantém uma grande performance de produção e manipulação de dados.
+
+
+Business Intelligence - Conhecido como BI, sua principal função é captar dados de todos os setores existentes na organização. Essas informações são captadas de qualquer sistema em uso no negócio e armazenadas em um banco de dados único para posterior análise. serve, principalmente, para que o gestor possa ter uma visão geral acerca do seu negócio.
+
+Data Science - A ciência de dados tem a mesma função do BI dentro de uma empresa, no entanto, a abordagem utilizada para a interpretação desses dados é diferente. Aqui, temos a presença de um profissional multidisciplinar conhecido como o cientista de dados. Por meio da análise de um conjunto específico de dados coletados junto à empresa, o cientista de dados se utiliza de métodos científicos para analisar e gerar conhecimentos valiosos para a organização, por meio da exploração de padrões e anomalias no conjunto de informações coletadas.
+
+
+ 
+
+Quais as diferenças entre Inteligência Artificial, Machine Learning e Deep Learning?
+R: 
+
+Inteligência Artificial - É o termo amplo usado para abranger todas as máquinas, ferramentas, métodos e dispositivos que realizam atividades inteligentes, como o próprio nome já indica. Isso significa que tudo aquilo que é dotado de IA tem a capacidade de raciocinar, solucionar problemas, planejar, manipular objetos ou reconhecer vozes, rostos e imagens. As máquinas executam funções cognitivas — associadas ao aprendizado humano e ao raciocínio para decidir — por meio de algoritmos inovadores, simulando a nossa forma de assimilar informações, generalizar sobre casos passados e tomar decisões em situações futuras.
+
+
+Machine Learning -  os dados são o combustível para a Inteligência Artificial funcionar. O Machine Learning é capaz de correlacionar um volume imenso de informações para extrair conhecimento e tomar decisões. Usamos algoritmos, técnicas, dados e procedimentos para programar uma máquina através de aprendizagem, a partir de exemplos, tornando-a apta a resolver problemas. Assim, ela é capaz de identificar padrões, realizar atividades repetitivas, aprender com erros, prever comportamentos e, finalmente, ser usada para tomar decisões.
+
+
+Deep Learning - É uma subárea do Machine Learning, são métodos evoluídos das redes neurais, que se inspiram no cérebro humano e suas propriedades, como a capacidade de aprender e generalizar. No Deep Learning, as redes neurais são mais sofisticadas, de tamanho muito maior e com habilidade superior de extrair e representar informações.
+
